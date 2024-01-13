@@ -1,0 +1,11 @@
+name: LCCExercisesMC
+version: '${project.version}'
+main: ch.asarix.lccexercisesmc.LCCExercisesMC
+api-version: '1.18'
+commands:
+  boss:
+    description: Faire apparaître un boss
+  infiniteblock:
+    description: Fait apparaître un bloc qui en fait apparaître un autre quand on le casse
+  countdown:
+    description: Lance un compte à rebours pour la nouvelle année
